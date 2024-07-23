@@ -1,6 +1,6 @@
 # us_employment_analysis-EDA-FeatureEngineering-FeatureSelection
 
-This repository contains code and resources for performing Exploratory Data Analysis (EDA), Feature Engineering, and Feature Selection. These steps are crucial in the data preprocessing pipeline to prepare data for machine learning models.
+This repository contains code and resources for performing Exploratory Data Analysis (EDA), Feature Engineering, and Feature Selection on us employmend dataset. These steps are crucial in the data preprocessing pipeline to prepare data for machine learning models.
 
 ## Table of Contents
 
