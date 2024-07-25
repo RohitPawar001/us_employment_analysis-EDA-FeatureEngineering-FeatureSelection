@@ -58,7 +58,7 @@ Exploratory Data Analysis (EDA) helps in understanding the underlying patterns a
 
 ## EDA
 
-The EDA notebook (`notebooks/eda.ipynb`) includes:
+The EDA notebook (`us_employment_eda.ipynb`) includes:
 - Data visualization
 - Summary statistics
 - Correlation analysis
@@ -66,7 +66,7 @@ The EDA notebook (`notebooks/eda.ipynb`) includes:
 
 ## Feature Engineering
 
-The Feature Engineering notebook (`notebooks/feature_engineering.ipynb`) includes:
+The Feature Engineering notebook (`us_employment_feature_engineering.ipynb`) includes:
 - Creating new features
 - Transforming existing features
 - Handling categorical variables
@@ -74,12 +74,8 @@ The Feature Engineering notebook (`notebooks/feature_engineering.ipynb`) include
 
 ## Feature Selection
 
-The Feature Selection notebook (`notebooks/feature_selection.ipynb`) includes:
+The Feature Selection notebook (`feature_selection.ipynb`) includes:
 - Univariate selection
-- Recursive feature elimination
-- Principal Component Analysis (PCA)
-- Feature importance from models
-
 
 
 ## Useful Links
